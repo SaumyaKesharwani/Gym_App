@@ -28,7 +28,7 @@ This is a React-based fitness application that allows users to explore over **10
 
 **1️⃣ Clone the repository:**
    ```
-   git clone https://github.com/Shreya327/gym_app.git
+   git clone https://github.com/SaumyaKesharwani/gym_app.git
    cd fitness-exercise-app
    ```
 
